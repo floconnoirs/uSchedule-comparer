@@ -1,0 +1,274 @@
+{
+  "courses": [
+    {
+      "school": "uottawa",
+      "subject_code": "SEG",
+      "course_code": "2900",
+      "course_name": "Professional Communication and Responsibility",
+      "sections": [
+        {
+          "label": "A",
+          "year": 2024,
+          "season": "fall",
+          "components": [
+            {
+              "label": "A01-TUT",
+              "type": "TUT",
+              "day": "TU",
+              "start_time": "20:30",
+              "end_time": "21:50",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Stéphane Some",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            },
+            {
+              "label": "A00-LEC",
+              "type": "LEC",
+              "day": "TU",
+              "start_time": "19:00",
+              "end_time": "20:20",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Stéphane Some",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            },
+            {
+              "label": "A00-LEC",
+              "type": "LEC",
+              "day": "TH",
+              "start_time": "13:00",
+              "end_time": "14:20",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Stéphane Some",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "school": "uottawa",
+      "subject_code": "ENG",
+      "course_code": "1112",
+      "course_name": "Technical Report Writing",
+      "sections": [
+        {
+          "label": "H",
+          "year": 2024,
+          "season": "fall",
+          "components": [
+            {
+              "label": "H01-DGD",
+              "type": "DGD",
+              "day": "TU",
+              "start_time": "11:30",
+              "end_time": "12:50",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Henri Feist",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            },
+            {
+              "label": "H00-LEC",
+              "type": "LEC",
+              "day": "FR",
+              "start_time": "14:30",
+              "end_time": "15:50",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Henri Feist",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "school": "uottawa",
+      "subject_code": "ITI",
+      "course_code": "1120",
+      "course_name": "Introduction to Computing I",
+      "sections": [
+        {
+          "label": "C",
+          "year": 2024,
+          "season": "fall",
+          "components": [
+            {
+              "label": "C00-LEC",
+              "type": "LEC",
+              "day": "TU",
+              "start_time": "14:30",
+              "end_time": "15:50",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Mohammad Alnabhan",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            },
+            {
+              "label": "C00-LEC",
+              "type": "LEC",
+              "day": "FR",
+              "start_time": "16:00",
+              "end_time": "17:20",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Mohammad Alnabhan",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            },
+            {
+              "label": "C02-LAB",
+              "type": "LAB",
+              "day": "MO",
+              "start_time": "14:30",
+              "end_time": "17:20",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Mohammad Alnabhan",
+              "session_type": "FULLSESS",
+              "status": "CLOSED"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "school": "uottawa",
+      "subject_code": "MAT",
+      "course_code": "1720",
+      "course_name": "Calcul différentiel et intégral I",
+      "sections": [
+        {
+          "label": "B",
+          "year": 2024,
+          "season": "fall",
+          "components": [
+            {
+              "label": "B03-DGD",
+              "type": "DGD",
+              "day": "FR",
+              "start_time": "11:30",
+              "end_time": "12:50",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Sana Keita",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            },
+            {
+              "label": "B00-LEC",
+              "type": "LEC",
+              "day": "MO",
+              "start_time": "10:00",
+              "end_time": "11:20",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Sana Keita",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            },
+            {
+              "label": "B00-LEC",
+              "type": "LEC",
+              "day": "WE",
+              "start_time": "08:30",
+              "end_time": "09:50",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Sana Keita",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "school": "uottawa",
+      "subject_code": "PHY",
+      "course_code": "1321",
+      "course_name": "Principles of Physics I (+1 combined)",
+      "sections": [
+        {
+          "label": "A",
+          "year": 2024,
+          "season": "fall",
+          "components": [
+            {
+              "label": "Y08-DGD",
+              "type": "DGD",
+              "day": "FR",
+              "start_time": "13:00",
+              "end_time": "14:20",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Andrzej Czajkowski",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            },
+            {
+              "label": "A00-LEC",
+              "type": "LEC",
+              "day": "MO",
+              "start_time": "13:00",
+              "end_time": "14:20",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Andrzej Czajkowski",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            },
+            {
+              "label": "Z03-LAB",
+              "type": "LAB",
+              "day": "WE",
+              "start_time": "14:30",
+              "end_time": "17:20",
+              "start_date": "2024-09-18",
+              "end_date": "2024-09-18",
+              "room": "",
+              "instructor": "Michael C. H. Wong",
+              "session_type": "FULLSESS",
+              "status": "CLOSED"
+            },
+            {
+              "label": "A00-LEC",
+              "type": "LEC",
+              "day": "WE",
+              "start_time": "11:30",
+              "end_time": "12:50",
+              "start_date": "2024-09-04",
+              "end_date": "2024-12-03",
+              "room": "",
+              "instructor": "Andrzej Czajkowski",
+              "session_type": "FULLSESS",
+              "status": "OPEN"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
